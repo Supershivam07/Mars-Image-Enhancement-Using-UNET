@@ -54,16 +54,6 @@ This project focuses on enhancing low-quality Mars and crater images using a **d
 
 ---
 
-## 🖼️ Visual Comparison
-
-
-+------------------+--------------------+--------------------+
-|   Original       |   Ground Truth     |   U-Net Output     |
-|  mars13.jpg      | Enhanced_mars13.jpg|  unet_mars13.jpg   |
-+------------------+--------------------+--------------------+
-
----
-
 ## 🔬 Image Quality Metrics (Visual Bar Chart)
 Each metric is evaluated across 3 images: original, GT, unet.
 The chart below is automatically generated via matplotlib for clarity.
